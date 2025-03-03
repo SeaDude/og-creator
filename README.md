@@ -1,4 +1,3 @@
-```
 # og-creator
 
 **og-creator** is a Python CLI tool that automatically generates key image assets for your website—favicon, logos, and an OG preview image—from a single input logo. No more manual resizing for OG previews, logos, or favicons.
@@ -87,4 +86,4 @@ Developed in quick collaboration with OpenAI's o3-mini-high model because I was 
 ## **License**
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-```
+
